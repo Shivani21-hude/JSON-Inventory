@@ -1,0 +1,22 @@
+[
+  {
+    "StockName": "Google",
+    "StockPrice": 190.0,
+    "NoOfShares": 2000
+  },
+  {
+    "StockName": "Microsoft",
+    "StockPrice": 290.0,
+    "NoOfShares": 2500
+  },
+  {
+    "StockName": "Flipkart",
+    "StockPrice": 300,
+    "NoOfShares": 1900
+  },
+  {
+    "StockName": "Amazon",
+    "StockPrice": 280.0,
+    "NoOfShares": 1600
+  }
+]
